@@ -1,1 +1,1 @@
-# NewsParser
+A News Reading Android application in 2013(before the new apps were cool). The aim was to build a better foundation in Android Development. Hits a Zee News API, crawls and fetches data in XML and displays the news sorted by time. Also has feature to search specific news through tags.
